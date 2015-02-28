@@ -185,4 +185,19 @@ xcode-select -p
 brew help
 brew --version
 homebrew --version
+
+
 History command - is a command that saves all the command enter in, in the terminal.
+cd - change directory
+ls - list
+pwd - print working directory
+mv - move file or folder, can also be used to renamed file or folder
+mkdir - make directory
+man - manual command
+-a - is a moddifier to a command the displays hidden files or directroy.
+| - is a pipe: used to redirect output from one file to an input of another command
+To move around unix you can use either a absolute path or a relative path.  Absolute paths start with a "/".
+~ - is the symbol for your home dirctory
+/ - is the root folder symbol
+. - represents the current directory you are in
+.. - moves you back a directory
