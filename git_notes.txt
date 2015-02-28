@@ -1,0 +1,8 @@
+git init - initializes git and creats a hidden directory .git/
+git add - adds file to the staging area to be commit.
+git status - shows you the currnet status of the project.
+Head, master - are both labels the point to the lastest commit in the branch.
+when making a new branch you also create a new label.  It also points to the lastest commit in the branch.
+git branch - command that displays what branch you are on.
+git checkout - use this command to switch to a different branch.
+
