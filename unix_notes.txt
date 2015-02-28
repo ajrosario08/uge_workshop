@@ -1,0 +1,188 @@
+clear
+cd
+history | sort | less
+history | sort
+man less
+less --help
+less h
+h
+less
+less -help
+less -h
+history | less
+history
+pwd
+ls .
+..
+cd ../dev
+cd Users
+cd dev
+cd cores
+ll
+la
+man cp
+cp --help
+cp -h
+ls -a
+ls -S
+ls -lS
+man ls
+man git
+ls -rlt
+ls -rt
+ls -r
+ls- r
+ls -lt
+ls -l
+ls -t
+ls /Volumes/
+clar
+ls /usr/bin
+ls /usr/local/bin
+which uname
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+brew update
+brew doctor
+cd
+cd Desktop/
+git --version
+echo $path
+man curl
+uname
+LS
+cd cardShuffle/
+touch styles.css
+cd d
+whoami
+mkdir cardShuffle
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'ajrosario08@gmail.com'
+git config --global user.name 'Anthony Rosario'
+brew install git
+subl /etc/paths
+echo $PATH
+subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+man uname
+gcc --version
+gcc
+xcode-select -p
+brew help
+brew --version
+homebrew --version
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+cd "HTML&CSS"
+cd HTML&CSS
+cd c01
+man git
+sh uninstall.sh
+sh unistall.sh
+cd Desktop
+subl test.hmtl
+subl .
+cd projects
+cd c26
+ll
+clear
+less moving_around.txt
+subl does_not_exsists
+nano moving_around.txt
+cat moving_around.txt
+ls
+history > moving_around.txt
+cd
+history | sort | less
+history | sort
+man less
+less --help
+less h
+h
+less
+less -help
+less -h
+history | less
+history
+pwd
+ls .
+..
+cd ../dev
+
+ls
+cd dev
+cd cores
+la
+man cp
+cp --help
+cp -h
+ls -a
+ls -S
+ls -lS
+man ls
+man git
+ls -rlt
+ls -rt
+ls- r
+ls -lt
+ls -l
+ls -t
+ls /Volumes/
+clar
+ls /usr/bin
+ls /usr/local/bin
+which uname
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+brew update
+brew doctor
+cd
+git commit -m "initial commit"
+git status
+git add .
+touch scripts.js
+touch index.html
+git status
+git statu s
+git init
+cd test/
+cd t
+mkdir test
+cd Desktop/
+git --version
+echo $path
+man curl
+uname
+whoami
+mkdir cardShuffle
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+brew install git
+subl /etc/paths
+echo $PATH
+subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+man uname
+gcc --version
+gcc
+xcode-select -p
+brew help
+brew --version
+homebrew --version
+History command - is a command that saves all the command enter in, in the terminal.
