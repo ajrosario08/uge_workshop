@@ -5,4 +5,5 @@ Head, master - are both labels the point to the lastest commit in the branch.
 when making a new branch you also create a new label.  It also points to the lastest commit in the branch.
 git branch - command that displays what branch you are on.
 git checkout - use this command to switch to a different branch.
-
+git push - pushes your local .git folder to an online site.
+git remote - before you push you have to give it a remote site to send everything to
